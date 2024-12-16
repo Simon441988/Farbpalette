@@ -7,5 +7,6 @@ Dunkelgrün
 Blau
 Gelb
 Magenta
+schwarz
 Sind alles tolle Farben.
 
